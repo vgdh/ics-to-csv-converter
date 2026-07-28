@@ -1,5 +1,5 @@
 # ICS to CSV Converter
-Convert iCalendar (.ics) files to Excel-compatible CSV format with full Unicode support.
+Convert Google iCalendar (.ics) files to Excel-compatible CSV format with full Unicode support.
 
 ## 📋 Table of Contents
 - [Features](#-features)
